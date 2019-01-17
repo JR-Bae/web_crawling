@@ -1,18 +1,24 @@
 # Web Crawling Technique
 using JS & nodejs.
-...
-...
-...
+  
+  ...   
+  
+  ... 
+  
+  ...
 
 
 Development Environments
-========================
+========================  
+
 
 nodejs: 11.6.0  
 npm: 6.5.0
-
+  
+  
 Update nodejs
-=============
+============= 
+
 
 Delete cache
 ------------
@@ -29,9 +35,11 @@ Install nodejs using n module
 Check version of nodejs
 ------------------------------
 `node -v`
-
+  
+  
 Update npm
-===========
+=========== 
+
 
 Install npm using npm
 ---------------------
